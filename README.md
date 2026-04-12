@@ -18,5 +18,5 @@ I don’t just write code; I optimize it. I use AI as a "digital mentor" to:
 
 ## 📈 Learning Path
 - [x] Python Fundamentals & AI Workflow Optimization
-- [ ] AWS Cloud Practitioner Essentials
+- [x] AWS Cloud Practitioner Essentials
 - [ ] Automating AWS S3 with Python (Boto3)
